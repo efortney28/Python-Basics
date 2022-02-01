@@ -1,10 +1,9 @@
 '''
     Syntax, Comments, Variables, Data Types, & Numbers
 
+    Read each comment prompt and try to follow along without looking at the answers.
 
-    Below you will find a partially complete program. Don't worry about not understanding what is going on after the break!
-
-    Just fill in the blanks which will be marked with line comments like this: #This is a comment
+    Don't forget to add the function to display the result to the console!!
 '''
 
 ### Create 2 variables: one named name, and one named favoriteColor
