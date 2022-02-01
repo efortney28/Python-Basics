@@ -4,3 +4,8 @@
 You can try to have this done before the meeting, or we can go over it in the meeting. Or you don't have to at all.
 
 #### To run the program, cd into the directory where unit1.py is, the run `python unit1.py` and there should be text displayed in the terminal once the program completes, which is short.
+
+
+
+
+### There are now a total of 3 different practice problems for Unit 1: Syntax, Comments, Variables, Datatypes, and Numbers.
