@@ -2,8 +2,6 @@
     Syntax, Comments, Variables, Data Types, & Numbers
 
     Read each comment prompt and try to follow along without looking at the answers.
-
-    Don't forget to add the function to display the result to the console!!
 '''
 
 ### First, create a variable named "name" and set it equal to a name
