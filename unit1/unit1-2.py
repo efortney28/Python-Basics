@@ -19,4 +19,4 @@ import datetime
 
 
 ### Lastly, let's display the result in the console! But I can't seem to remember the function to display to the console....
-("I have spent {0} days working at Google.".format(total_days.days))
+print("I have spent {0} days working at Google.".format(total_days.days))
